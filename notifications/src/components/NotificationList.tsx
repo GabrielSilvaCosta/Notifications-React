@@ -13,7 +13,7 @@ export default function NotificationList() {
       id: 1,
       user: "Mark Webber",
       action: "reacted to your recent post My first tournament today",
-      time: "1m ago",
+      time: "1 ago",
       avatar: markWeber,
     },
     {
@@ -57,7 +57,7 @@ export default function NotificationList() {
       id: 7,
       user: "Anna Kim",
       action: "left the group Chess Club",
-      time: "2 weeks ago",
+      time: "3 weeks ago",
       avatar: anna,
     },
   ];
